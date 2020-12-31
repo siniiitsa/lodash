@@ -1,0 +1,2 @@
+# lodash
+Exploring Lodash library
