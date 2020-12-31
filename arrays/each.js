@@ -19,6 +19,6 @@ const users = {
   id_3: 'Vlad',
 };
 
-_.each(users, (value, key, third) => {
+_.each(users, (value, key) => {
   console.log(`${key}: ${value}`);
 });
