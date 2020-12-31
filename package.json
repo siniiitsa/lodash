@@ -1,0 +1,25 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "exploring lodash library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siniiitsa/lodash.git"
+  },
+  "keywords": [
+    "lodash"
+  ],
+  "author": "Sergey Sinitsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siniiitsa/lodash/issues"
+  },
+  "homepage": "https://github.com/siniiitsa/lodash#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
